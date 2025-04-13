@@ -5,3 +5,5 @@ if the sum is greater than 500 then 10% discount
 else
 give 5%
 discount
+if the customer is new=points=0 else
+point=point +10
