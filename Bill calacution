@@ -1,3 +1,7 @@
 read item from i to n
 sum-sum+item
 print "the amout is" sum
+if the sum is greater than 500 then 10% discount
+else
+give 5%
+discount
