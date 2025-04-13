@@ -1,0 +1,3 @@
+read item from i to n
+sum-sum+item
+print "the amout is" sum
